@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-<a href="https://prathulkm.onrender.com/">
+<a href="https://prathul.onrender.com/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111827"/>
 </a>
 <a href="https://www.linkedin.com/in/prathulkm/">
@@ -502,7 +502,7 @@ open_to:
 <img src="https://img.shields.io/badge/GitHub-Pr4thC0des-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"/>
 </a>
 
-<a href="https://prathulkm.onrender.com/">
+<a href="https://prathul.onrender.com/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111827"/>
 </a>
 
