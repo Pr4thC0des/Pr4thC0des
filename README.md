@@ -440,7 +440,7 @@ Focused on developing practical applications across mobile development, backend 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Pr4thC0des/Pr4thC0des/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Pr4thC0des/Pr4thC0des/gh-pages/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub Contribution Snake"/>
 
 </div>
 
