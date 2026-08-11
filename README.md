@@ -404,13 +404,13 @@ Focused on developing practical applications across mobile development, backend 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pr4thC0des&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Pr4thC0des&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pr4thC0des&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pr4thC0des&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" width="48%" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Pr4thC0des&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=6B7280" width="700"/>
+<img src="https://streak-stats.demolab.com?user=Pr4thC0des&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
